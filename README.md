@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ander%20Lizarazu&fontSize=56&fontColor=E6F1FF&fontAlignY=36&desc=Engineering%20Physics%20%C2%B7%20Mondragon%20Unibertsitatea&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ander Lizarazu"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ander%20Lizarazu&fontSize=56&fontColor=E6F1FF&fontAlignY=36&desc=Engineering%20Physics%20%C2%B7%20Mondragon%20Unibertsitatea&descAlignY=58&descSize=18" width="100%" alt="Ander Lizarazu"/>
 
 <a href="https://github.com/Lizarazu-07">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=64FFDA&center=true&vCenter=true&width=560&lines=Kaixo!+%C2%B7+Hello!+%C2%B7+%C2%A1Hola!+%F0%9F%91%8B;Quantum+computing+with+Qiskit+%E2%9A%9B%EF%B8%8F;Photonics+%26+optics+simulation+%F0%9F%94%AC;Building+apps+that+solve+real+problems+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG"/>
@@ -14,7 +14,7 @@
 
 ---
 
-### $\langle \text{me} | \hat{H} | \text{me} \rangle$
+### ⟨ me | Ĥ | me ⟩
 
 I'm a 4th-year **Engineering Physics** student at **Mondragon Unibertsitatea**. I like the place where physics meets code: simulating light and qubits during the week, and turning everyday problems into small apps the rest of the time.
 
